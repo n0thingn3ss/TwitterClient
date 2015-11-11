@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="training.twitterclient.activities.TimelineActivity" >
+    <item android:id="@+id/action_compose_tweet" android:title="@string/compose"
+        app:showAsAction="ifRoom" android:icon="@drawable/tweet_icon"/>
+</menu>
